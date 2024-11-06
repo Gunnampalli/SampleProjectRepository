@@ -1,1 +1,1 @@
-PR requests
+Pull requests
